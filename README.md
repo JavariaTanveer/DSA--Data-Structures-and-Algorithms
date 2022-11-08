@@ -1,2 +1,2 @@
 # DSA--Data-Structures-and-Algorithms
-This repository contains assignments, DSA Project , mini projects and other important Codes of DSA.
+This repository contains tne assignments of DSA.
